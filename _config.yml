@@ -5,13 +5,13 @@ cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://anurangabandara.github.io" # the base hostname & protocol for your site
+url: "https://anurangabandara.github.io/" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
-#facebook: facebook
+linkedin: facebook
 twitter: anurangabandara
-#github:  github
+github:  anurangabandara
 
 #Additional Pages
 about: about
