@@ -1,22 +1,22 @@
 # Site settings
 title: Anuranga Bandara
-description: Personal webpage
+description: Personal Webpage
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
+baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://anurangabandara.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
-facebook: facebook
-twitter: twitter
-github:  github
+#facebook: facebook
+twitter: anurangabandara
+#github:  github
 
 #Additional Pages
 about: about
 contact: contact
-privacy-policy: privacy-policy
+#privacy-policy: privacy-policy
 
 
 permalink: /:title
